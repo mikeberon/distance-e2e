@@ -1,0 +1,14 @@
+#wiki-nestedFlows.yaml
+
+appId: org.wikipedia.alpha
+---
+- launchApp:
+    clearState: true
+- runFlow:
+    when:
+        visible: Wikipedia Alpha
+    commands:
+        - tapOn: OK
+- assertVisible: "In the news"
+- runFlow: swipeFlow.yaml # <-- Run commands from "swipeFlow.yaml"
+# - takeScreenshot: After3Swipes

@@ -1,0 +1,29 @@
+{
+    "owners": [
+        {
+            "firstName": "Auto",
+            "lastName": "Engineer",
+            "email": "auto.eng@gmail.com"
+        }
+    ],
+    "employeeCountOptions": {
+        "1-10": "1-10 employees",
+        "11-50": "11-50 employees",
+        "51-200": "51-200 employees",
+        "201-500": "201-500 employees",
+        "501+": "501+ employees"
+    },
+    "businessLocationCountOptions": {
+        "1-2": "1-2 locations",
+        "3-5": "3-5 locations",
+        "6-10": "6-10 locations",
+        "11-20": "11-20 locations",
+        "21-50": "21-50 locations",
+        "51+": "51+ locations"
+    },
+    "billingPlanOptions": {
+        "Monthly": "Monthly billing",
+        "Annual": "Annual billing (save 10%)"
+    }
+
+}

@@ -1,0 +1,8 @@
+appId: tribune.apk
+---
+- launchApp
+- tapOn: Username
+- inputText: Test User
+- tapOn: Password
+- inputText: Test Password
+- tapOn: Login

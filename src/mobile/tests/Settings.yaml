@@ -1,0 +1,5 @@
+appId: tribune.apk
+---
+- runFlow: Login.yaml # <-- Run commands from "Login.yaml"
+- tapOn: Settings
+- assertVisible: "Switch to dark mode"

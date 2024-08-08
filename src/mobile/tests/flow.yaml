@@ -1,0 +1,22 @@
+#flow.yaml
+appId: tribune.apk
+name: Launch tribune app
+#Optional : https://maestro.mobile.dev/cli/tags
+tags:
+  - tag-build
+  - pull-request
+env:
+    USERNAME: user@example.com
+    PASSWORD: 123
+#BeforeHook - Preconditions
+onFlowStart:
+  - runFlow: setup.yaml
+  - runScript: setup.js
+  - <any other command>
+#AfterHook - Teardowns/post conditions
+onFlowComplete:
+  - runFlow: teardown.yaml
+  - runScript: teardown.js
+  - <any other command>
+---
+- launchApp

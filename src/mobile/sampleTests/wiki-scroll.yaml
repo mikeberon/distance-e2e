@@ -1,0 +1,16 @@
+# wiki-scroll.yaml
+
+appId: org.wikipedia.alpha
+---
+- launchApp:
+    clearState: true
+- runFlow:
+    when:
+        visible: Wikipedia Alpha
+    commands:
+        - tapOn: OK
+- assertVisible: "In the news"
+- scrollUntilVisible:
+    centerElement: true
+    element:
+      text: "Picture of the day"

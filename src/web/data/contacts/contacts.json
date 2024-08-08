@@ -1,0 +1,107 @@
+[
+  {
+    "firstName": "Ross",
+    "lastName": "Geller",
+    "phone": "+1 415-762-8392",
+    "email": "ross.geller@example.com",
+    "tag": "VIP"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Tribbiani",
+    "phone": "+1 213-555-5678",
+    "email": "joey.tribbiani@example.com",
+    "tag": "Regular"
+  },
+  {
+    "firstName": "Chandler",
+    "lastName": "Bing",
+    "phone": "+1 646-555-9012",
+    "email": "chandler.bing@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Green-Geller",
+    "phone": "+1 415-555-3456",
+    "email": "rachel.green@example.com",
+    "tag": "VIP"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Geller",
+    "phone": "+1 305-555-7890",
+    "email": "monica.geller@example.com",
+    "tag": "Regular"
+  },
+  {
+    "firstName": "Phoebe Felula",
+    "lastName": "Buffay",
+    "phone": "+1 702-555-2345",
+    "email": "pheebs.buffay@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Harvey",
+    "lastName": "Specter",
+    "phone": "+1 617-555-6789",
+    "email": "harvey.specter@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Ross",
+    "phone": "+1 808-555-0123",
+    "email": "mike.ross@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Litt",
+    "phone": "+1 404-555-4567",
+    "email": "justgot.litt@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Paulsen",
+    "phone": "+1 214-555-8901",
+    "email": "donna.p@example.com",
+    "tag": "VIP"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Zane",
+    "phone": "+1 503-555-2345",
+    "email": "rachel.zane@example.com",
+    "tag": "VIP"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Pearson",
+    "phone": "+1 816-555-6789",
+    "email": "jess.pearson@example.com",
+    "tag": "VIP"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Scott",
+    "phone": "+1 206-555-9012",
+    "email": "dana.scott@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Katrina",
+    "lastName": "Bennett",
+    "phone": "+1 602-555-3456",
+    "email": "kat.bennett@example.com",
+    "tag": "Premium"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Hardman",
+    "phone": "+1 718-555-7890",
+    "email": "dan.hardman@example.com",
+    "tag": "VIP"
+  }
+]
